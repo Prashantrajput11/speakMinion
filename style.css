@@ -51,3 +51,22 @@ textarea {
   padding: 10px 10px;
   text-align: center;
 }
+
+.social {
+  display: flex;
+  justify-content: space-around;
+  padding: 18px;
+}
+.social li {
+  list-style: none;
+  font-size: 12px;
+}
+.social li a {
+  text-decoration: none;
+  color: rgb(250, 20, 20);
+  font-size: 12px;
+}
+.icons {
+  color: rgb(243, 30, 30);
+  font-size: 12px;
+}
